@@ -7,7 +7,7 @@ Download my games: https://gamejolt.com/@SkipperFox/games
 Doodle Jump Game: https://gamejolt.com/games/doodlejump/807497
 
 ---
-#### >>> The main source code file is called "Doodle Jump Game.cpp" <<<
+#### >>> The main source code file is called [Doodle Jump Game.cpp](https://github.com/pfrackowiak01/Doodle_Jump_Game/blob/main/Doodle%20Jump%20Game.cpp) <<<
 ---
 
 ### Simple Game Project in C++ created by Paweł Frąckowiak in one week! (2023)
