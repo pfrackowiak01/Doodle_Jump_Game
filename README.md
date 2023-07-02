@@ -42,3 +42,5 @@ Special Ability:    right mouse button
 4. This ability we can also activate by click on the right mouse button and costs 20 coins. Coins are randomly spawned on the level.
 5. There will be monsters on the platforms that will kill you if you touch them. You can shoot them with the left mouse button.
 6. You and the projectiles can go across the edges of the screen and appear on the other side of the screen.
+
+---
